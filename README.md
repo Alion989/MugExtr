@@ -69,7 +69,6 @@ MugEXTR features a clean, unified, and dark-themed mobile-friendly interface des
 
 | **SND Extraction** | **FNT Extraction** | **PCX Conversion** |
 | :---: | :---: | :---: |
-| <img src="image_3.png" alt="MugEXTR SND Screen" width="250"/> | <img src="image_2.png" alt="MugEXTR FNT Screen" width="250"/> | <img src="image_1.png" alt="MugEXTR PCX Converter Screen" width="250"/> |
 | A simple two-step process: Select your `.SND` source and your destination folder, then tap 'Extract'. | Identify your desired `.FNT` source and an output folder. Ideal for UI and font ripping. | Simply point the app to a folder full of `.PCX` images and watch it convert them to PNG in batch. |
 
 ---
