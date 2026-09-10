@@ -1,26 +1,58 @@
 <p align="center">
-  <!-- შეცვალე 'YOUR_LOGO_IMAGE_URL_HERE.png' შენი ლოგოს ლინკით -->
-  <img src="YOUR_LOGO_IMAGE_URL_HERE.png" alt="MugEXTR Logo" width="200"/>
+  <img src="logo.png" width="120"/>
 </p>
 
-# 🛡️ MugEXTR – M.U.G.E.N Asset Extraction Tool
+<h1 align="center">MugEXTR</h1>
 
 <p align="center">
-  <img src="logo.png" alt="MugEXTR App Screenshot" width="300"/>
-  <br>
-  <em>(SFF Sprite Extraction tab shown above)<p align="center">
-  <img src="https://via.placeholder.com/200x200.png?text=MugEXTR+Logo" alt="MugEXTR Logo" width="200"/>
+  <b>A powerful M.U.G.E.N asset extraction & conversion tool for mobile</b>
 </p>
 
-# 🛡️ MugEXTR – M.U.G.E.N Asset Extraction Tool
+---
+
+## 📌 Overview
+
+**MugEXTR** is a lightweight, mobile-first utility designed for M.U.G.E.N creators and modders. It simplifies extracting, organizing, and converting essential game assets directly from raw M.U.G.E.N engine files.
+
+---
+
+## 🚀 Key Features
+
+| Feature | Description | File Format |
+| :--- | :--- | :---: |
+| **SFF Extractor** | Unpacks sprite sheets and images from character and stage files | `.SFF` ➔ `PNG` |
+| **SND Extractor** | Extracts audio effects, voice lines, and sound files | `.SND` ➔ `WAV` |
+| **FNT Extractor** | Extracts custom M.U.G.E.N font glyphs and data | `.FNT` ➔ `PNG` |
+| **PCX Converter** | Batch-converts legacy PCX images into modern PNG files | `.PCX` ➔ `PNG` |
+
+---
+
+## 📱 Interface Overview
 
 <p align="center">
-  <img src="image_0.png" alt="MugEXTR App Screenshot" width="300"/>
-  <br>
-  <em>(SFF Sprite Extraction tab shown above)</em>
+  <img src="image_3.png" alt="SND Tab" width="30%" />
+  <img src="image_2.png" alt="FNT Tab" width="30%" />
+  <img src="image_1.png" alt="PCX Tab" width="30%" />
 </p>
 
-**MugEXTR** is a powerful yet lightweight mobile utility designed for M.U.G.E.N creators and fans. It simplifies the process of extracting, organizing, and converting essential game assets from raw M.U.G.E.N engine files, making game development, modding, and resource gathering faster and more efficient.
+* **SND:** Select `.SND` source and output folder to extract audio.
+* **FNT:** Extract fonts for UI and text rendering.
+* **PCX → PNG:** Select a directory with legacy `.PCX` images to batch-convert.
+
+---
+
+## 🛠️ How to Use
+
+1. **Select Mode:** Choose **SFF**, **SND**, **FNT**, or **PCX→PNG** from the top bar.
+2. **Choose Source:** Select your file or folder.
+3. **Set Destination:** Pick the output directory.
+4. **Extract / Convert:** Tap the action button to process your files.
+
+---
+
+## 📄 License
+
+Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
