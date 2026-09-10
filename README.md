@@ -27,14 +27,6 @@
 
 ---
 
-## 📱 Interface Overview
-
-* **SND:** Select `.SND` source and output folder to extract audio.
-* **FNT:** Extract fonts for UI and text rendering.
-* **PCX → PNG:** Select a directory with legacy `.PCX` images to batch-convert.
-
----
-
 ## 🛠️ How to Use
 
 1. **Select Mode:** Choose **SFF**, **SND**, **FNT**, or **PCX→PNG** from the top bar.
