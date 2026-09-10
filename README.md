@@ -29,12 +29,6 @@
 
 ## 📱 Interface Overview
 
-<p align="center">
-  <img src="image_3.png" alt="SND Tab" width="30%" />
-  <img src="image_2.png" alt="FNT Tab" width="30%" />
-  <img src="image_1.png" alt="PCX Tab" width="30%" />
-</p>
-
 * **SND:** Select `.SND` source and output folder to extract audio.
 * **FNT:** Extract fonts for UI and text rendering.
 * **PCX → PNG:** Select a directory with legacy `.PCX` images to batch-convert.
